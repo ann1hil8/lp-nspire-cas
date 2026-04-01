@@ -1,6 +1,6 @@
 # LP-Nspire: Advanced Laplace Transform Library
 
-A robust TI-Basic library for the TI-Nspire CX II CAS, designed for Computer Engineering (CPE) and Electrical Engineering (EEE) coursework. This tool extends the native CAS capabilities to handle complex symbolic transforms, shifting theorems, and step-by-step inverse decompositions.
+A robust TI-Basic library for the TI-Nspire CX II CAS, designed for Electrical Engineering (EEE) and Computer Engineering (CPE) coursework. This tool extends the native CAS capabilities to handle complex symbolic transforms, shifting theorems, and step-by-step inverse decompositions.
 
 ## 🚀 Features
 - **Forward & Inverse Transforms:** High-stability symbolic processing.
